@@ -17,17 +17,17 @@ profile link : https://leetcode.com/u_v199/
 
 
 ⏩ DAY-2
-https://leetcode.com/problems/sort-an-array/
-https://leetcode.com/problems/compare-version-numbers/
-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-https://leetcode.com/problems/container-with-most-water/
-https://leetcode.com/problems/3sum-closest/
-https://leetcode.com/problems/valid-palindrome/
-https://leetcode.com/problems/rotate-image/
-https://leetcode.com/problems/third-maximum-number/
-https://leetcode.com/problems/swap-nodes-in-pairs/
-https://leetcode.com/problems/single-number/
+-> https://leetcode.com/problems/sort-an-array/
+-> https://leetcode.com/problems/compare-version-numbers/
+-> https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+-> https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+-> https://leetcode.com/problems/container-with-most-water/
+-> https://leetcode.com/problems/3sum-closest/
+-> https://leetcode.com/problems/valid-palindrome/
+-> https://leetcode.com/problems/rotate-image/
+-> https://leetcode.com/problems/third-maximum-number/
+-> https://leetcode.com/problems/swap-nodes-in-pairs/
+-> https://leetcode.com/problems/single-number/
 
 
 ⏩ DAY-3
