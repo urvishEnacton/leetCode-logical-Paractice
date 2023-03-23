@@ -17,3 +17,5 @@ const fun = (arr, money) => {
 let arr = [10, 8, 6, 4];
 let x = 6
 console.log("------ans------>", fun(arr, x));
+
+
